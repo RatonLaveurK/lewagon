@@ -1,0 +1,21 @@
+.banner{
+	background-image: linear-gradient(0deg,rgb(0,0,0,0.7),rgba(0,0,0,0.2)), url(../../images/hw1.jpeg);
+	color: #d8dee6;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1{
+	font-size: 65px;
+	color: #adb8c7;
+}
+
+
+.banner h2{
+	font-size: 30px;
+	font-weight: bolder;
+	color: #dce6f2;
+	opacity: 0.8;
+	margin-bottom: 25px;
+}

@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Waiting+for+the+Sunrise&display=swap");
+
+@import url("components/container.css");
+@import url("components/hp1.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+
+
+
+
+
+body{
+	font-family: 'Waiting for the Sunrise', cursive;
+	font-size: 16px;
+	font-weight: bolder;
+	margin: 0px;
+}
+
+
+h1{
+	font-family: 'Waiting for the Sunrise', cursive;
+	font-weight: bolder;
+	font-size: 50px;
+}
+
+h2{
+	font-family: 'Waiting for the Sunrise', cursive;
+	font-weight: bolder;
+	font-size: 30px;
+}
+
+
+h3{
+	font-family: 'Waiting for the Sunrise', cursive;
+	font-weight: bolder;
+}
+
+
+a{
+	text-decoration: none;
+}
